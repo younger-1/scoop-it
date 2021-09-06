@@ -1,0 +1,18 @@
+{
+    "version": "0.4.12",
+    "description": "Neovim GUI written in Golang, using a Golang qt backend ",
+    "homepage": "https://github.com/akiyosi/goneovim",
+    "license": "MIT",
+    "url": "https://github.com/akiyosi/goneovim/releases/download/v0.4.12/Goneovim-v0.4.12-win64.zip",
+    "bin": "goneovim.exe",
+    "shortcuts": [
+        [
+            "goneovim.exe",
+            "Goneovim"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/akiyosi/goneovim/releases/download/v$version/Goneovim-v$version-win64.zip"
+    }
+}

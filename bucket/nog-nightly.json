@@ -1,0 +1,21 @@
+{
+    "version": "nightly",
+    "description": "A tiling window manager for Windows",
+    "homepage": "https://github.com/TimUntersberger/nog",
+    "license": "MIT",
+    "notes": "See https://timuntersberger.github.io/nog for doc",
+    "extract_dir": "Nog",
+    "persist": "config",
+    "bin": "bin\\nog.exe",
+    "shortcuts": [
+        [
+            "bin\\nog.exe",
+            "nog"
+        ]
+    ],
+    "url": "https://github.com/TimUntersberger/nog/releases/download/master-release/Nog.zip",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/TimUntersberger/nog/releases/download/master-release/Nog.zip"
+    }
+}
