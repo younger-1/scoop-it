@@ -1,0 +1,14 @@
+{
+    "json.schemas": [
+        {
+            "url": "https://cdn.jsdelivr.net/gh/lukesampson/scoop@master/schema.json",
+            "fileMatch": [
+                "bucket/*.json"
+            ]
+        }
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true
+    }
+}
