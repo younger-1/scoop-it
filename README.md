@@ -10,6 +10,9 @@
 
 <https://github.com/nabijaczleweli/termimage>
 
+<https://github.com/ahrm/sioyek>
+
+
 ## Auto update
 
 <https://github.com/chawyehsu/dorado/issues/28>
