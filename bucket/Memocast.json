@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/TankNee/Memocast/releases/download/v$version/Memocast-2.1.5-win.zip"
+                "url": "https://github.com/TankNee/Memocast/releases/download/v$version/Memocast-$version-win.zip"
             }
         }
     }
