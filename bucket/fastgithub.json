@@ -1,0 +1,13 @@
+{
+    "version": "2.0.4",
+    "description": "github加速神器",
+    "homepage": "https://github.com/dotnetcore/FastGithub",
+    "license": "MIT License",
+    "url": "https://github.com/dotnetcore/FastGithub/releases/download/2.0.4/fastgithub_win-x64.zip",
+    "extract_dir": "fastgithub_win-x64",
+    "bin": "fastgithub.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/dotnetcore/FastGithub/releases/download/$version/fastgithub_win-x64.zip"
+    }
+}
