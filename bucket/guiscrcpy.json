@@ -1,0 +1,19 @@
+{
+    "version": "4.10.0",
+    "description": "A full fledged GUI integration for the most award winning open-source android screen mirroring system",
+    "homepage": "https://github.com/srevinsaju/guiscrcpy",
+    "license": "GPL-3.0",
+    "depends": "scrcpy",
+    "url": "https://github.com/srevinsaju/guiscrcpy/releases/download/v4.10.0/guiscrcpy-PySide2-x64.exe#/guiscrcpy.exe",
+    "bin": "guiscrcpy.exe",
+    "shortcuts": [
+        [
+            "guiscrcpy.exe",
+            "Gui-scrcpy"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/srevinsaju/guiscrcpy/releases/download/v4.10.0/guiscrcpy-PySide2-x64.exe#/guiscrcpy.exe#/guiscrcpy.exe"
+    }
+}
