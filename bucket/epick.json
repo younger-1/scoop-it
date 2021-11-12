@@ -1,0 +1,13 @@
+{
+    "version": "0.6.0",
+    "description": "Color picker for creating harmonic color palettes",
+    "homepage": "https://github.com/vv9k/epick",
+    "license": "GPL-3.0",
+    "url": "https://github.com/vv9k/epick/releases/download/0.6.0/epick-0.6.0-x86_64-pc-windows-msvc.zip",
+    "extract_dir": "epick",
+    "bin": "epick.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/vv9k/epick/releases/download/$version/epick-$version-x86_64-pc-windows-msvc.zip"
+    }
+}
