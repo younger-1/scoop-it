@@ -1,5 +1,5 @@
 {
-    "version": "0.1.4",
+    "version": "0.2.0",
     "description": "A modern frontend for Neovim.",
     "homepage": "https://github.com/rohit-px2/nvui",
     "suggest": {
@@ -8,7 +8,7 @@
     "extract_dir": "nvui",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rohit-px2/nvui/releases/download/v0.1.4-v2/nvui-win64.zip"
+            "url": "https://github.com/rohit-px2/nvui/releases/download/v0.2.0/nvui-win64.zip"
         }
     },
     "bin": "bin/nvui.exe",
