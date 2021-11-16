@@ -11,11 +11,46 @@
             "url": "https://github.com/rohit-px2/nvui/releases/download/v0.2.0/nvui-win64.zip"
         }
     },
-    "bin": "bin/nvui.exe",
+    "bin": [
+        [
+            "bin/nvui.exe",
+            "nvu",
+        ],
+        [
+            "bin/nvui.exe",
+            "nvui",
+            "--ext_multigrid"
+        ],
+        [
+            "bin/nvui.exe",
+            "nvui-menu",
+            "--ext_multigrid --ext_popupmenu"
+        ],
+        [
+            "bin/nvui.exe",
+            "nvui-cmd",
+            "--ext_multigrid --ext_popupmenu --ext_cmdline"
+        ]
+    ],
     "shortcuts": [
         [
             "bin/nvui.exe",
-            "NVUI"
+            "nvu",
+        ],
+        [
+            "bin/nvui.exe",
+            "nvui",
+            "--ext_multigrid"
+        ],
+        [
+            "bin/nvui.exe",
+            "nvui-menu",
+            "--ext_multigrid --ext_popupmenu"
+        ],
+        [
+            "bin/nvui.exe",
+            "nvui-cmd",
+            "--ext_multigrid --ext_popupmenu --ext_cmdline"
         ]
     ],
     "checkver": "github",
