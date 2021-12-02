@@ -14,7 +14,7 @@
     "bin": [
         [
             "bin/nvui.exe",
-            "nvu",
+            "nvu"
         ],
         [
             "bin/nvui.exe",
@@ -35,7 +35,7 @@
     "shortcuts": [
         [
             "bin/nvui.exe",
-            "nvu",
+            "nvu"
         ],
         [
             "bin/nvui.exe",
