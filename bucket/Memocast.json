@@ -5,7 +5,8 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/TankNee/Memocast/releases/download/v2.1.5/Memocast-2.1.5-win.zip"
+            "url": "https://github.com/TankNee/Memocast/releases/download/v2.1.5/Memocast-2.1.5-win.zip",
+            "hash": ""
         }
     },
     "bin": [
