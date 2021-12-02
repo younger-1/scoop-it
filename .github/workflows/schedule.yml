@@ -1,6 +1,7 @@
 name: Excavator
 
 on:
+  workflow_dispatch:
   schedule:
   - cron: '1 0 * * *'
 
@@ -13,6 +14,6 @@ jobs:
     - name: Excavate
       uses: Ash258/Scoop-GithubActions@stable
       env:
-        GITH_EMAIL: 5764917+chawyehsu@users.noreply.github.com
+        GITH_EMAIL: younger321@foxmail.com
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SKIP_UPDATED: '1'
