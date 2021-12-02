@@ -3,7 +3,7 @@ name: Excavator
 on:
   workflow_dispatch:
   schedule:
-  - cron: '1 0 * * *'
+  - cron: '0 6 * * *'
 
 jobs:
   excavate:
@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@main
     - name: Excavate
-      uses: Ash258/Scoop-GithubActions@stable
+      uses: kidonng/Scoop-GithubActions@stable
       env:
         GITH_EMAIL: younger321@foxmail.com
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
