@@ -1,16 +1,13 @@
 {
-    "version": "0.7.0",
+    "version": "0.5.0",
     "description": "A simple GUI for Neovim",
     "homepage": "https://github.com/neovide/neovide",
     "license": "MIT",
     "suggest": {
         "neovim": "neovim"
     },
-    "architecture": {
-        "64bit": {
-            "url": "https://github.com/neovide/neovide/releases/download/0.7.0/neovide.exe"
-        }
-    },
+    "url": "https://github.com/neovide/neovide/releases/download/0.5.0/neovide.exe",
+    "hash": "---",
     "bin": "neovide.exe",
     "shortcuts": [
         [
@@ -18,12 +15,11 @@
             "Neovide"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+    "url": "https://github.com/neovide/neovide/releases",
+    "regex": "([\\d\\.]{5})"
+},
     "autoupdate": {
-        "architecture": {
-            "64bit": {
                 "url": "https://github.com/neovide/neovide/releases/download/$version/neovide.exe"
-            }
-        }
     }
 }
