@@ -1,15 +1,19 @@
 {
-    "version": "3.36.0",
+    "version": "3.37.0",
     "description": "A small, fast, self-contained, high-reliability and full-featured SQL database engine",
     "homepage": "https://www.sqlite.org/",
     "license": "Public Domain",
-    "url": "https://www.sqlite.org/2021/sqlite-dll-win64-x64-3360000.zip",
+    "architecture": {
+        "64bit": {
+            "url": "https://www.sqlite.org/2021/sqlite-dll-win64-x64-3370000.zip",
+            "hash": "f6f208369123bde2ac6c37fe2a9b7481e6cd90495683060cef84870489d6908f"
+        }
+    },
     "checkver": {
         "url": "https://www.sqlite.org/download.html",
-        "regex": "(?sm)\\d+-bit DLL \\(x\\d+\\) for SQLite version ([\\d.]+)\\..*?(?<year>\\d+)/sqlite-tools-win32-x86-(?<clean>\\d+)"
+        "regex": "(?sm)\\d+-bit DLL \\(x64\\) for SQLite version ([\\d.]+)\\..*?(?<year>\\d+)/sqlite-tools-win32-x86-(?<clean>\\d+)"
     },
     "autoupdate": {
-        "url": "https://www.sqlite.org/$matchYear/sqlite-dll-win64-x64-$matchClean.zip",
-        "extract_dir": "sqlite-tools-win32-x86-$matchClean"
+        "url": "https://www.sqlite.org/$matchYear/sqlite-dll-win64-x64-$matchClean.zip"
     }
 }
