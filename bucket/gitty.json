@@ -4,7 +4,7 @@
     "homepage": "https://github.com/muesli/gitty",
     "license": "MIT",
     "url": "https://github.com/muesli/gitty/releases/download/v0.4.0/gitty_0.4.0_Windows_x86_64.zip",
-    "hash": "---",
+    "hash": "ABE367B650643C318FF28EA59CDBAD33814713B8B652214857B58C5DB0F14EDB",
     "bin": "gitty.exe",
     "checkver": "github",
     "autoupdate": {
