@@ -1,0 +1,13 @@
+{
+    "version": "0.4.0",
+    "description": "CLI that shows you all the relevant issues, pull requests and changes at a quick glance",
+    "homepage": "https://github.com/muesli/gitty",
+    "license": "MIT",
+    "url": "https://github.com/muesli/gitty/releases/download/v0.4.0/gitty_0.4.0_Windows_x86_64.zip",
+    "hash": "---",
+    "bin": "gitty.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/muesli/gitty/releases/download/v$version/gitty_$version_Windows_x86_64.zip"
+    }
+}
