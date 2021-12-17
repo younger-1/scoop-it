@@ -15,6 +15,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/srevinsaju/guiscrcpy/releases/download/v4.10.0/guiscrcpy-PySide2-x64.exe#/guiscrcpy.exe#/guiscrcpy.exe"
+        "url": "https://github.com/srevinsaju/guiscrcpy/releases/download/v4.10.0/guiscrcpy-PySide2-x64.exe#/guiscrcpy.exe"
     }
 }

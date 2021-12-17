@@ -4,7 +4,7 @@
     "homepage": "https://github.com/vv9k/epick",
     "license": "GPL-3.0",
     "url": "https://github.com/vv9k/epick/releases/download/0.6.0/epick-0.6.0-x86_64-pc-windows-msvc.zip",
-    "hash": "C66E909D8383DCCAF032B3F1F625349EBA80EF0C193310AB1D5700DD734326F1",
+    "hash": "c66e909d8383dccaf032b3f1f625349eba80ef0c193310ab1d5700dd734326f1",
     "extract_dir": "epick",
     "bin": "epick.exe",
     "checkver": "github",

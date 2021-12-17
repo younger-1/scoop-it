@@ -7,7 +7,7 @@
         "neovim": "neovim"
     },
     "url": "https://github.com/smolck/uivonim/releases/download/v0.29.0/uivonim-0.29.0-win.zip",
-    "hash": "---",
+    "hash": "c5e4d2847cc5f3317e2cb6bc7f49db41cc639e07365768d4caacd6505492bdfc",
     "bin": "uivonim.exe",
     "shortcuts": [
         [

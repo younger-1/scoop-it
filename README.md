@@ -16,3 +16,11 @@
 ## Auto update
 
 <https://github.com/chawyehsu/dorado/issues/28>
+
+```ps1
+# See the available paras
+vim ('{0}/bin/checkver.ps1' -f (scoop prefix scoop))
+
+# `-forceupdate` is useful for hash
+.\bin\checkver.ps1 -forceupdate
+```
