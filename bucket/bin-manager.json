@@ -4,10 +4,10 @@
     "homepage": "https://github.com/marcosnils/bin",
     "license": "MIT",
     "bin": "bin.exe",
-    "url": "https://github.com/marcosnils/bin/releases/download/v0.11.0/bin_0.11.0_Windows_x86_64.exe",
+    "url": "https://github.com/marcosnils/bin/releases/download/v0.11.0/bin_0.11.0_Windows_x86_64.exe#/bin.exe",
     "hash": "ff9e89957f6ef22b1a3144af95e242ede72ce792b7820ef46fd343708160b2ec",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/marcosnils/bin/releases/download/v$version/bin_$version_Windows_x86_64.exe"
+        "url": "https://github.com/marcosnils/bin/releases/download/v$version/bin_$version_Windows_x86_64.exe#/bin.exe"
     }
 }

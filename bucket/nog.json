@@ -5,7 +5,7 @@
     "license": "MIT",
     "notes": "See https://timuntersberger.github.io/nog for doc",
     "url": "https://github.com/TimUntersberger/nog/releases/download/v0.13.0/nog.exe",
-    "hash": "",
+    "hash": "fb3bd82c98f6f7bae0f6e994eeb351feaed51d865a9758567a1d46abeb7c988f",
     "bin": "nog.exe",
     "checkver": "github",
     "autoupdate": {
