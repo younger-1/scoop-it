@@ -22,5 +22,7 @@
 vim ('{0}/bin/checkver.ps1' -f (scoop prefix scoop))
 
 # `-forceupdate` is useful for hash
-.\bin\checkver.ps1 -forceupdate
+.\bin\checkver.ps1 -Forceupdate
+
+.\bin\checkver.ps1 sqlite3dll -ForceUpdate
 ```

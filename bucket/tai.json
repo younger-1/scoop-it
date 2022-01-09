@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0.1",
+    "description": "在Windows上记录软件使用时长 ",
+    "homepage": "https://github.com/Planshit/Tai",
+    "license": "MIT License",
+    "hash": "24bbbaccae3760dc1311c22803a35519a834e9509ee18b89b449a02ec03d7b9b",
+    "bin": "tai.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Planshit/Tai/releases/download/$version/Tai$version.zip"
+    }
+}
