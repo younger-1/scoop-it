@@ -2,12 +2,12 @@
     "homepage": "https://wave.h2o.ai/",
     "description": "Realtime Web Apps and Dashboards for Python and R",
     "license": "Apache-2.0",
-    "version": "0.19.0",
+    "version": "0.20.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/h2oai/wave/releases/download/v0.19.0/wave-0.19.0-windows-amd64.tar.gz",
-            "hash": "7314f041c952248b473effa6c6962d165837760440ee145fdbf9e6185d7c6749",
-            "extract_dir": "wave-0.19.0-windows-amd64"
+            "url": "https://github.com/h2oai/wave/releases/download/v0.20.0/wave-0.20.0-windows-amd64.tar.gz",
+            "hash": "fa474819838a526fe357bc54ce08358a13b97e5ce1ff095b79bda7a412979867",
+            "extract_dir": "wave-0.20.0-windows-amd64"
         }
     },
     "bin": "waved.exe",
