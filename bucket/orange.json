@@ -1,10 +1,10 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "A cross-platform desktop application for searching local files.",
     "homepage": "https://github.com/naaive/orange",
     "license": "GPL-3.0",
-    "url": "https://github.com/naaive/orange/releases/download/0.0.3/Orange_0.0.3_x64.msi",
-    "hash": "8abb82cff9fd648b67488ce08628aab0e846c984a8443f83bea82b9d47229882",
+    "url": "https://github.com/naaive/orange/releases/download/0.0.4/Orange_0.0.4_x64.msi",
+    "hash": "4bd9acb15b3c8e80f8904e9a0c72cea187c7e854292e20e9d85c3623e5197002",
     "extract_dir": "PFiles/Orange",
     "bin": "orange.exe",
     "checkver": "github",
