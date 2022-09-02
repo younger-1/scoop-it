@@ -1,11 +1,11 @@
 {
     "homepage": "https://jbang.dev",
     "description": "Unleash the power of Java",
-    "version": "0.95.0",
+    "version": "0.98.0",
     "license": "MIT",
-    "url": "https://github.com/jbangdev/jbang/releases/download/v0.95.0/jbang-0.95.0.zip",
-    "hash": "9013de85ba59860a9803e7c3c7e525bde503a54ed9f0d6d29b7dae967b406655",
-    "extract_dir": "jbang-0.95.0",
+    "url": "https://github.com/jbangdev/jbang/releases/download/v0.98.0/jbang-0.98.0.zip",
+    "hash": "1ca481aa9afea46dffafb82b7907f8118877cda2183e8a1859beb39dbd8a93e7",
+    "extract_dir": "jbang-0.98.0",
     "env_add_path": "bin",
     "suggest": {
         "JDK": [
