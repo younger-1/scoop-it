@@ -1,11 +1,11 @@
 {
-    "version": "0.15.0",
+    "version": "0.15.1",
     "description": "Effortless binary manager ",
     "homepage": "https://github.com/marcosnils/bin",
     "license": "MIT",
     "bin": "bin.exe",
-    "url": "https://github.com/marcosnils/bin/releases/download/v0.15.0/bin_0.15.0_Windows_x86_64.exe#/bin.exe",
-    "hash": "a75b1b1d3b66daa1677fd6ed232bd1b6d0e318d3fd27ddf94b3dee150b207db2",
+    "url": "https://github.com/marcosnils/bin/releases/download/v0.15.1/bin_0.15.1_Windows_x86_64.exe#/bin.exe",
+    "hash": "15c14835e04f154d92b46298c117e48683965c9a3496cd0cdc217d4230bfbf98",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/marcosnils/bin/releases/download/v$version/bin_$version_Windows_x86_64.exe#/bin.exe"
