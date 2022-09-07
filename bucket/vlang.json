@@ -1,5 +1,5 @@
 {
-    "version": "2022.24",
+    "version": "2022.36",
     "description": "The V Programming Language. Simple, fast, safe, compiled.",
     "homepage": "https://vlang.io",
     "license": "MIT",
@@ -7,8 +7,8 @@
     "suggest": {
         "An LLVM/Clang/LLD based mingw-w64 toolchain": "Scoop-littleli/llvm-mingw"
     },
-    "url": "https://github.com/vlang/v/releases/download/weekly.2022.24/v_windows.zip",
-    "hash": "4881ab8b27a7fd2d2a3342596183a7cb9c7c1cd78882e48db47901a11e34c71e",
+    "url": "https://github.com/vlang/v/releases/download/weekly.2022.36/v_windows.zip",
+    "hash": "09e9fd80860649531c8fcf21cf46be66eadda36900fa1458a28c3c70af5510ed",
     "extract_dir": "v",
     "bin": "v.exe",
     "checkver": {
