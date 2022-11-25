@@ -1,10 +1,10 @@
 {
-    "version": "1.3.0.1",
+    "version": "1.3.0.2",
     "description": "在Windows上记录软件使用时长 ",
     "homepage": "https://github.com/Planshit/Tai",
     "license": "no license",
-    "url": "https://github.com/Planshit/Tai/releases/download/1.3.0.1/Tai1.3.0.1.zip",
-    "hash": "7b0ee548bf2af398d84518838b6c99359f44c44bbf302af95d958859b61efee8",
+    "url": "https://github.com/Planshit/Tai/releases/download/1.3.0.2/Tai1.3.0.2.zip",
+    "hash": "107bc0cbb6e431ed3bf0017c0ba2b680fd8b1e4c85e5888387a1dbf4dee02277",
     "shortcuts": [
         [
             "tai.exe",
