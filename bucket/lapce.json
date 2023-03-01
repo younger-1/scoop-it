@@ -1,10 +1,10 @@
 {
-    "version": "0.2.5",
+    "version": "0.2.6",
     "description": "Lightning-fast and Powerful Code Editor written in Rust",
     "homepage": "https://github.com/lapce/lapce",
     "license": "Apache-2.0",
-    "url": "https://github.com/lapce/lapce/releases/download/v0.2.5/Lapce-windows.msi",
-    "hash": "21e164d8f9bf829e1fe1a18da26b24334232eb295905a98c50ad95de3dd780db",
+    "url": "https://github.com/lapce/lapce/releases/download/v0.2.6/Lapce-windows.msi",
+    "hash": "cf3a71e252470db3665997057f62d39b8b62aad785c00624a51ae031e7d9d906",
     "extract_dir": "Lapce",
     "bin": "lapce.exe",
     "checkver": "github",
