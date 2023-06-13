@@ -1,10 +1,10 @@
 {
     "homepage": "http://pdm.fming.dev",
-    "version": "2.7.0",
+    "version": "2.7.4",
     "license": "MIT",
-    "url": "https://files.pythonhosted.org/packages/94/37/c72461e521d1efc9631caa53b639df6453dbc78c114299d908119987f03f/pdm-2.7.0-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/be/51/f1ae159ab60dbad8c9a931e437b92c155b65b0eb5ff7727c21ccebd971cb/pdm-2.7.4-py3-none-any.whl",
     "depends": "python",
-    "hash": "9a79988a71ea666fe7ff41fd0541bf94f11d8f58cd4e9e67c9e36f46e4a6fc39",
+    "hash": "7884f030d6c18bdf5f92bab085c96c74c4ef24844fa5e57bc3adc52d9578765f",
     "bin": "venv\\Scripts\\pdm.exe",
     "installer": {
         "script": [
