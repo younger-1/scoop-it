@@ -1,14 +1,18 @@
 {
-    "version": "2.1.4",
+    "version": "2.1.5",
     "description": "github加速神器",
-    "homepage": "https://github.com/dotnetcore/FastGithub",
+    "homepage": "https://github.com/WangGithubUser/FastGitHub",
     "license": "MIT License",
-    "url": "https://github.com/dotnetcore/FastGithub/releases/download/2.1.4/fastgithub_win-x64.zip",
-    "hash": "b439afc7b730766aed894876696e9aeb411e3b45f60ebdcfdff247890742c0f6",
-    "extract_dir": "fastgithub_win-x64",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/WangGithubUser/FastGitHub/releases/download/v2.1.5/fastgithub_win-x64.zip",
+            "hash": "2cdf82209d695788529dcd98ca59e0905d8be5305f4437a8181cb3f4bb736442",
+            "extract_dir": "fastgithub_win-x64"
+        }
+    },
     "bin": "fastgithub.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/dotnetcore/FastGithub/releases/download/$version/fastgithub_win-x64.zip"
+        "url": "https://github.com/WangGithubUser/FastGitHub/releases/download/v$version/fastgithub_win-x64.zip"
     }
 }
