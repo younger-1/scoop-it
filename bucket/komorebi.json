@@ -1,12 +1,12 @@
 {
-    "version": "0.1.36",
+    "version": "0.1.37",
     "description": "A tiling window manager for Windows",
     "homepage": "https://github.com/LGUG2Z/komorebi",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/LGUG2Z/komorebi/releases/download/v0.1.36/komorebi-0.1.36-x86_64-pc-windows-msvc.zip",
-            "hash": "6234116503ec9eeb938a100ea78d34540e455a068c11decdbd7ce83d8b4978dc"
+            "url": "https://github.com/LGUG2Z/komorebi/releases/download/v0.1.37/komorebi-0.1.37-x86_64-pc-windows-msvc.zip",
+            "hash": "140ab0b1d06192f84d7ded558a1eb31a54d165bcd8b1bbecd860ad86d4a3c1e8"
         }
     },
     "bin": [
